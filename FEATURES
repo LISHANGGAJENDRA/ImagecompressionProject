@@ -1,0 +1,12 @@
+ advanced features:
+✅ Real-Time Cluster Adjustment with UI using Streamlit
+✅ Compression Ratio Calculation
+✅ Elbow Method for Auto K Selection
+✅ Multi-Algorithm Comparison Ready
+✅ Interactive Image Upload & Display
+✅ GIF Animation showing compression steps at different K values
+✅ Automatic K selection if the user doesn't enter a value
+✅ Proper file size reduction with saved compressed images
+✅ Compression Ratio Calculation (Displays original & compressed file sizes + % reduction)
+✅ GIF Animation Progress Indicator (Ensures the user sees progress feedback)
+✅ Smooth Execution Flow with time.sleep(1) for a better experience
